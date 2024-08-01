@@ -1,0 +1,5 @@
+1. Browse to GCP website
+2.Click on sign up for free
+3.Select free trial account
+4. Upload personal details
+5.Free trail account will be created 

@@ -1,0 +1,36 @@
+CLOUD COMPUTING
+
+Cloud computing refers to the delivery of computing services—such as servers, storage, databases, networking, software, and analytics—over the internet. It allows users to access and manage these services on demand, without needing to own or maintain physical hardware.
+
+CLOUD SERVICE PROVIDERS
+
+Amazon Web Services (AWS):
+
+ One of the largest and most widely used cloud platforms, offering a vast array of services including computing power, storage, and databases.
+Key Services: Amazon EC2, Amazon S3, Amazon RDS, AWS Lambda.
+
+Microsoft Azure:
+
+A cloud platform from Microsoft that integrates well with Microsoft products and offers a broad range of services for various applications.
+Key Services: Azure Virtual Machines, Azure Blob Storage, Azure SQL Database, Azure Functions.
+
+Google Cloud Platform (GCP):
+
+Google’s cloud computing service offering, known for its strong data analytics and machine learning capabilities.
+Key Services: Google Compute Engine, Google Cloud Storage, Google BigQuery, Google Cloud Functions.
+
+IBM Cloud:
+
+IBM cloud service includes IaaS, PaaS, and SaaS solutions, with strong enterprise features and a focus on hybrid cloud environments.
+Key Services: IBM Cloud Virtual Servers, IBM Cloud Object Storage, IBM Watson.
+
+Oracle Cloud:
+
+Oracle provides cloud services with a strong emphasis on database solutions and enterprise applications.
+Key Services: Oracle Cloud Infrastructure (OCI), Oracle Autonomous Database, Oracle Cloud Applications.
+
+Alibaba Cloud:
+
+The cloud division of Alibaba Group, known for its strong presence in Asia and a comprehensive range of cloud services.
+Key Services: Elastic Compute Service (ECS), ApsaraDB, Alibaba Cloud Function Compute.
+
